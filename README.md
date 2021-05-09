@@ -1,2 +1,2 @@
-# Sistemas-Operacionais
-5º Semestre do curso de Engenharia da Computação - UFSM
+# Operational Systems 
+Operational Systems material from 5th semester of Computer Engineering - UFSM
